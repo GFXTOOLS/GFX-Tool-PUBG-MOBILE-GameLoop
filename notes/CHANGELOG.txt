@@ -1,0 +1,2 @@
+/* rev-d4b70c-20260918 */
+v1.0.8 gfx fps hdr optimizer dns ipad view
